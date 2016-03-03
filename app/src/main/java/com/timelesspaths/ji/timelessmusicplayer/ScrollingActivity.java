@@ -13,6 +13,8 @@ public class ScrollingActivity extends AppCompatActivity {
 
     //First Process in creating music player
 
+    //Creating Navigation Drawer
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
